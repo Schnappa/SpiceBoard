@@ -1,5 +1,5 @@
 # SpiceBoard
-<img src="Images Images/SpiceBoard%20Icon-macOS-Default-128x128%401x.png" width="128" alt="SpiceBoard Icon">
+<img src="Images/SpiceBoard%20Icon-macOS-Default-128x128%401x.png" width="128" alt="SpiceBoard Icon">
 
 **CRITICAL NOTICE: This project was created with AI (Artificial Intelligence), and I, as the author, wrote very little of the actual code myself. It is intended to serve as a solid baseline/foundation for other developers to take over, refine, and fully complete the application. There are still bugs and many usefull features are not or not fully implemented.**
 
