@@ -71,4 +71,4 @@ SpiceBoard is a modern macOS Usenet client built with Swift, `@Observable` macro
 4. Copy all Swift files (`.swift` files) from this directory into your newly created Xcode project's file explorer.
 5. Build and run!
 
-https://github.com/Schnappa/SpiceBoard/blob/main/Images/SpiceBoard%202026-07-04.png
+![SpiceBoard](https://github.com/Schnappa/SpiceBoard/blob/main/Images/SpiceBoard%202026-07-04.png)
