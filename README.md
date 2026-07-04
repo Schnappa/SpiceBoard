@@ -1,6 +1,6 @@
 # SpiceBoard
 
-**CRITICAL NOTICE: This project was created with AI (Artificial Intelligence), and I, as the author, wrote very little of the actual code myself. It is intended to serve as a solid baseline/foundation for other developers to take over, refine, and fully complete the application.**
+**CRITICAL NOTICE: This project was created with AI (Artificial Intelligence), and I, as the author, wrote very little of the actual code myself. It is intended to serve as a solid baseline/foundation for other developers to take over, refine, and fully complete the application. There are still bugs and many usefull features are not or not fully implemented.**
 
 ---
 
@@ -40,11 +40,15 @@ SpiceBoard is a modern macOS Usenet client built with Swift, `@Observable` macro
 * **Multi-Server Configurations**: Configure multiple NNTP server endpoints with custom hostnames, ports, authentication credentials (username and password), and secure SSL/TLS.
 
 ### 5. Detailed Log Viewer & Preferences
-* **Verbindungsprotokoll**: Monitor server handshakes, authentication, NNTP commands (`GROUP`, `XOVER`, `BODY`, `POST`), and transaction results in a real-time, color-coded diagnostic log window.
+* **Log window**: Monitor server handshakes, authentication, NNTP commands (`GROUP`, `XOVER`, `BODY`, `POST`), and transaction results in a real-time, color-coded diagnostic log window.
 * **Personal Profile Settings**: Manage your public identity (name, email address, organization headers, and X-Face signature strings).
 * **Custom Signature Drawing**: Renders custom face icons directly using high-fidelity vector calculations derived from custom headers!
 * **Flexible Preferences Persistence**: Configure custom locations for settings files (`.plist` format) or export configurations.
 
+### 6. Bugs
+- X-Face does not really work.
+- Writing window does not properly grow when longer texts is written.
+  
 ---
 
 ## 📂 Project Structure
